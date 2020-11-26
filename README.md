@@ -1,6 +1,8 @@
 # Numerai
 Machine Learning Hedge Fond
 
+![Numerai](https://numer.ai/homepage/img/Numerai-Logo-Side-Black.png)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
 Numerai is a new kind of hedge fond, which synthesizes many different and uncorrelated models with many different characteristics, provided by a large group of anonymous people from all over the world. It is free to participate. Data offered weekly is encripted in order to protect the proprietary financial information of the hedge fond. The challenge is posed as a classification problem, where users train their models on the train dataset and upload their predictions for the test dataset. More info can be found at www.numeria.ai
